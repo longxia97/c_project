@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\code\\test\\2024\\class\\test_6_10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E656BE09-274B-4625-B995-A4B0C3CFA9E7}|test_6_10\\test_6_10.vcxproj|C:\\code\\test\\2024\\class\\test_6_10\\test_6_10\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E656BE09-274B-4625-B995-A4B0C3CFA9E7}|test_6_10\\test_6_10.vcxproj|solutionrelative:test_6_10\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E656BE09-274B-4625-B995-A4B0C3CFA9E7}|test_6_10\\test_6_10.vcxproj|C:\\code\\test\\2024\\class\\test_6_10\\test_6_10\\add.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E656BE09-274B-4625-B995-A4B0C3CFA9E7}|test_6_10\\test_6_10.vcxproj|solutionrelative:test_6_10\\add.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "C:\\code\\test\\2024\\class\\test_6_10\\test_6_10\\test.c",
+              "RelativeDocumentMoniker": "test_6_10\\test.c",
+              "ToolTip": "C:\\code\\test\\2024\\class\\test_6_10\\test_6_10\\test.c",
+              "RelativeToolTip": "test_6_10\\test.c",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAAI0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-10T05:26:57.421Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "add.c",
+              "DocumentMoniker": "C:\\code\\test\\2024\\class\\test_6_10\\test_6_10\\add.c",
+              "RelativeDocumentMoniker": "test_6_10\\add.c",
+              "ToolTip": "C:\\code\\test\\2024\\class\\test_6_10\\test_6_10\\add.c",
+              "RelativeToolTip": "test_6_10\\add.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-10T12:39:25.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
